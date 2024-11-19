@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá! Sou Kauan de Oliveira Tavares
 
-<!--
-**KauannOliver/KauannOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Full-Stack | 💡 Especialista em Automação e BI | 🌱 Sempre em busca de inovação
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- **Linguagens:** Python, JavaScript, PHP
+- **Ferramentas e Plataformas:** Power BI, Power Apps, Power Automate
+- **Outros:** Desenvolvimento de soluções personalizadas e automação de processos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauannoliver&show_icons=true&theme=radical)
+
+## 🌐 Vamos Conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kauan-de-oliveira-tavares)
+[![Portfólio](https://img.shields.io/badge/Portfólio-black?style=flat-square&logo=web)](https://seuportfolio.com)
+
+---
