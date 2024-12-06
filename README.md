@@ -10,7 +10,7 @@
 
 ## 💼 Featured Projects
 
-- **Pizzeria Management System:**
+- **Pizzaria Management System:**
   Developed an integrated system to manage orders in a pizzeria, including integration of orders via WhatsApp and phone calls. Utilized **Python**, **Selenium**, and **Flet** to create a modern interface and automate processes, improving efficiency and order organization.
 
 - **Provisions and Write-Offs Management System:**
