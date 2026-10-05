@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Kauan Oliveira Tavares — Turning operational friction into working systems."><title>Kauan Oliveira Tavares — Turning operational friction into working systems.</title>
+    <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#090f1b"/></linearGradient><linearGradient id="accent"><stop stop-color="#68e3ca"/><stop offset="1" stop-color="#6a9cff"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263954" stroke-width=".5" opacity=".45"/></pattern></defs>
+    <rect width="1200" height="390" rx="20" fill="url(#bg)"/>
+    <rect width="1200" height="390" rx="20" fill="url(#grid)"/>
+    <g font-family="Segoe UI,Arial,sans-serif"><rect x="1" y="1" width="1198" height="388" rx="20" fill="none" stroke="#314157"/>
+<circle cx="41" cy="34" r="5" fill="#68e3ca"/><circle cx="59" cy="34" r="5" fill="#6a9cff"/><circle cx="77" cy="34" r="5" fill="#f0ba65"/>
+<text x="105" y="40" fill="#8c9eb7" font-size="14" font-family="Consolas,monospace">kauan / systems that work</text>
+<text x="44" y="104" fill="#68e3ca" font-size="15" letter-spacing="3">SOFTWARE · AUTOMATION · INTEGRATIONS</text>
+<text x="40" y="160" fill="#f0f5fc" font-size="49" font-weight="700" letter-spacing="-1.5">Kauan Oliveira Tavares</text>
+<text x="44" y="220" fill="#eef5ff" font-size="34" font-weight="600">Turning operational friction</text>
+<text x="44" y="263" fill="#68e3ca" font-size="34" font-weight="600">into working systems.</text>
+<text x="44" y="321" fill="#a3b4ca" font-size="18">Practical code. Connected workflows. Useful data.</text>
+<path d="M44 353H696" stroke="url(#accent)" stroke-width="3"/>
+<rect x="774" y="84" width="382" height="259" rx="16" fill="#101b2e" stroke="#31445f"/>
+<text x="798" y="115" fill="#91a7c3" font-size="14" font-family="Consolas,monospace">workflow.build()</text>
+<path d="M822 154V286M822 174H858M822 230H858M822 286H858" stroke="#50769e" stroke-width="2" fill="none"/>
+<circle cx="822" cy="155" r="5" fill="#68e3ca"/>
+<rect x="858" y="148" width="269" height="43" rx="8" fill="#152942" stroke="#2e5168"/><text x="877" y="175" fill="#a9ebdf" font-size="17">01 / understand operations</text>
+<rect x="858" y="204" width="269" height="43" rx="8" fill="#152942" stroke="#2e5168"/><text x="877" y="231" fill="#b7d0ff" font-size="17">02 / connect APIs + data</text>
+<rect x="858" y="260" width="269" height="43" rx="8" fill="#152942" stroke="#2e5168"/><text x="877" y="287" fill="#f0d299" font-size="17">03 / deliver usable tools</text></g></svg>

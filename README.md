@@ -1,59 +1,59 @@
+![Kauan Oliveira Tavares — Turning operational friction into working systems.](assets/hero.svg)
+
 <div align="center">
 
-# Kauan Oliveira Tavares
+**Software developer working at the intersection of business operations and code.**
 
-### Turning operational friction into working systems.
+I turn spreadsheets, repetitive tasks, and disconnected tools into applications people can use.
 
-Software · Automation · Integrations · Data
-
-I build practical applications and automation that connect business workflows, APIs, and data.
+[Portfolio](https://kauantavares.netlify.app/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/kauan-tavares49) &nbsp; · &nbsp; [Email](mailto:kauanotavares@gmail.com)
 
 </div>
 
-```text
-$ focus
-Python · TypeScript · workflow automation · backend applications
+### From a workflow to a working system
 
-$ approach
-Understand the process → connect the systems → make the result usable
-```
+![Operations → automation → APIs and data → applications → decisions](assets/workflow.svg)
 
-## What I build
+I start with the process: what people do, where the work gets stuck, and which systems need to talk. Then I build the interface, integration, or data tool that makes the next step easier.
 
-- **Business applications:** interfaces and workflows for operational tasks.
-- **Process automation:** spreadsheet-driven desktop automation and browser workflows.
-- **Integrations:** APIs, databases, and external services connected through application code.
-- **Data tools:** validation, transformation, and reporting-ready exports.
+### Selected work
 
-```mermaid
-flowchart LR
-  Operations[Operational process] --> Automation[Automation]
-  Automation --> Integrations[APIs and integrations]
-  Integrations --> Data[Structured data]
-  Data --> Applications[Useful applications]
-  Applications --> Decisions[Operational decisions]
-```
+Explore the source, setup instructions, and documented limitations in each repository.
 
-## Selected projects
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/KauannOliver/fpa-reports"><img src="https://raw.githubusercontent.com/KauannOliver/KauannOliver/main/assets/fpa-reports.svg" alt="Business Reporting Portal: A report catalog with role-based access and administration screens. Next.js / TypeScript / Supabase" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/KauannOliver/subcontractor-evaluation"><img src="https://raw.githubusercontent.com/KauannOliver/KauannOliver/main/assets/subcontractor-evaluation.svg" alt="Subcontractor Evaluation: Turn configured evaluation criteria into consistent spreadsheet-backed scores. Python / PyQt5 / Pandas" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/KauannOliver/excel-sheet-processor"><img src="https://raw.githubusercontent.com/KauannOliver/KauannOliver/main/assets/excel-sheet-processor.svg" alt="Excel Sheet Processor: Group, validate, format, and export spreadsheet data from a desktop interface. Python / Flet / Pandas / OpenPyXL" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/KauannOliver/fipe-data-collector"><img src="https://raw.githubusercontent.com/KauannOliver/KauannOliver/main/assets/fipe-data-collector.svg" alt="FIPE Data Collector: Query vehicle data and produce structured spreadsheet results. Python / Requests / Pandas" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/KauannOliver/danfe-form-demo"><img src="https://raw.githubusercontent.com/KauannOliver/KauannOliver/main/assets/danfe-form-demo.svg" alt="DANFE Form Demo: An educational form for invoice fields and a print-oriented document layout. HTML / CSS / JavaScript / Bootstrap" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/KauannOliver/omdb-movie-list"><img src="https://raw.githubusercontent.com/KauannOliver/KauannOliver/main/assets/omdb-movie-list.svg" alt="OMDb Movie List: Search an external movie catalog and keep a browser-local personal list. JavaScript / OMDb API / Local storage" width="100%" /></a></td>
+</tr>
+</table>
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [Business Reporting Portal](https://github.com/KauannOliver/fpa-reports) | Report catalog, user roles, and administration workflows | Next.js, TypeScript, Supabase |
-| [Subcontractor Evaluation](https://github.com/KauannOliver/subcontractor-evaluation) | Desktop scoring workflow backed by spreadsheet data | Python, PyQt5, Pandas |
-| [Excel Sheet Processor](https://github.com/KauannOliver/excel-sheet-processor) | Chunked spreadsheet transformation and formatting | Python, Flet, OpenPyXL |
-| [FIPE Data Collector](https://github.com/KauannOliver/fipe-data-collector) | API-based vehicle data collection and spreadsheet export | Python, Requests, Pandas |
-| [DANFE Form Demo](https://github.com/KauannOliver/danfe-form-demo) | Browser form and print-oriented document layout | HTML, CSS, JavaScript, Bootstrap |
-| [OMDb Movie List](https://github.com/KauannOliver/omdb-movie-list) | External API search and browser-local saved items | JavaScript, OMDb API |
+### My building blocks
 
-## Technology in the repositories
+| Area | Tools used in my repositories |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **Web applications** | React · Next.js · NestJS · Express · Vite |
+| **Desktop & automation** | Flet · PyQt5 · Tkinter · Selenium |
+| **Data & storage** | Pandas · OpenPyXL · PostgreSQL · MySQL · SQLite · Supabase · Prisma |
+| **Delivery** | Git · Docker · environment-based configuration |
 
-- **Core:** Python, JavaScript, TypeScript, SQL.
-- **Applications:** React, Next.js, Vite, NestJS, Express, Flet, Tkinter, PyQt5.
-- **Automation and data:** Selenium, Pandas, OpenPyXL.
-- **Storage and infrastructure:** PostgreSQL, MySQL, SQLite, Supabase, Prisma, Docker.
+### The way I work
 
-These are technologies visible in the public repositories. AI, Power BI, and Power Platform are not listed as demonstrated skills because the public code reviewed here does not provide verifiable artifacts for them.
+**Understand first.** Map the workflow and make the assumptions visible.  
+**Build something useful.** Connect the interface, the business rules, and the data.  
+**Keep the handoff clear.** Document setup, prerequisites, and the limits of the implementation.
 
-## Connect
+<div align="center">
 
-[Portfolio](https://kauantavares.netlify.app/) · [LinkedIn](https://linkedin.com/in/kauan-tavares49) · [Email](mailto:kauanotavares@gmail.com)
+**Have a workflow that should be simpler?**  
+[Let's talk](mailto:kauanotavares@gmail.com) · [Explore all repositories](https://github.com/KauannOliver?tab=repositories)
+
+</div>
