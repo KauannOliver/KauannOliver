@@ -5,7 +5,7 @@
     <g font-family="Segoe UI,Arial,sans-serif"><rect x="1" y="1" width="598" height="228" rx="20" fill="none" stroke="#304258"/>
     <path d="M26 36H42M34 28V44" stroke="#6a9cff" stroke-width="2"/>
     <text x="55" y="40" fill="#6a9cff" font-size="12" letter-spacing="1.3">REPORTS + ACCESS WORKFLOWS</text>
-    <text x="566" y="41" text-anchor="end" fill="#5e7595" font-size="14" font-family="Consolas,monospace">01</text>
+    <text x="566" y="41" text-anchor="end" fill="#5e7595" font-size="14" font-family="Consolas,monospace">02</text>
     <text x="27" y="85" fill="#f1f5fc" font-size="27" font-weight="650">Business Reporting Portal</text>
     <text x="28" y="121" fill="#a8b9d0" font-size="18">A report catalog with role-based access</text>
     <text x="28" y="149" fill="#a8b9d0" font-size="18">and administration screens.</text>
