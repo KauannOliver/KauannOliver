@@ -1,34 +1,59 @@
-# 👋 Hello! I'm Kauan de Oliveira Tavares
+<div align="center">
 
-🚀 **Full-Stack Developer** | 💡 **Automation and BI Specialist** | 🌱 **Always seeking innovation**
+# Kauan Oliveira Tavares
 
-## 🛠️ Skills
+### Turning operational friction into working systems.
 
-- **Languages:** Python, JavaScript, PHP
-- **Tools and Platforms:** Power BI, Power Apps, Power Automate
-- **Others:** Custom solution development, process automation, data analysis
+Software · Automation · Integrations · Data
 
-## 💼 Featured Projects
+I build practical applications and automation that connect business workflows, APIs, and data.
 
-- **Pizzaria Management System:**
-  Developed an integrated system to manage orders in a pizzeria, including integration of orders via WhatsApp and phone calls. Utilized **Python**, **Selenium**, and **Flet** to create a modern interface and automate processes, improving efficiency and order organization.
+</div>
 
-- **Provisions and Write-Offs Management System:**
-  Created a comprehensive system to manage financial provisions, allowing data import/export in **Excel** and generating detailed reports. The system offers full CRUD functionalities, write-off tracking, and applies accounting formatting. Tools used include **Python**, **Pandas**, **Flet**, and Excel integration.
+```text
+$ focus
+Python · TypeScript · workflow automation · backend applications
 
-- **SharePoint Form Automation:**
-  Developed an automated solution for filling out forms in **SharePoint** using **Python**, **Selenium**, and **Tkinter**. The tool extracts data from Excel spreadsheets and automates the filling of fields in SharePoint, increasing efficiency and reducing manual data entry errors.
+$ approach
+Understand the process → connect the systems → make the result usable
+```
 
-## 🎯 Goals and Interests
+## What I build
 
-- **Continuous Learning:** Always seeking new technologies and methodologies to enhance my skills.
-- **Collaboration:** Interested in collaborating on open-source projects related to automation and business intelligence.
-- **Innovation:** Passionate about developing solutions that optimize processes and add value to businesses.
+- **Business applications:** interfaces and workflows for operational tasks.
+- **Process automation:** spreadsheet-driven desktop automation and browser workflows.
+- **Integrations:** APIs, databases, and external services connected through application code.
+- **Data tools:** validation, transformation, and reporting-ready exports.
 
-## 🌐 Let's Connect?
+```mermaid
+flowchart LR
+  Operations[Operational process] --> Automation[Automation]
+  Automation --> Integrations[APIs and integrations]
+  Integrations --> Data[Structured data]
+  Data --> Applications[Useful applications]
+  Applications --> Decisions[Operational decisions]
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauan-tavares49)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KauannOliver)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kauanotavares@gmail.com)
+## Selected projects
 
----
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Business Reporting Portal](https://github.com/KauannOliver/fpa-reports) | Report catalog, user roles, and administration workflows | Next.js, TypeScript, Supabase |
+| [Subcontractor Evaluation](https://github.com/KauannOliver/subcontractor-evaluation) | Desktop scoring workflow backed by spreadsheet data | Python, PyQt5, Pandas |
+| [Excel Sheet Processor](https://github.com/KauannOliver/excel-sheet-processor) | Chunked spreadsheet transformation and formatting | Python, Flet, OpenPyXL |
+| [FIPE Data Collector](https://github.com/KauannOliver/fipe-data-collector) | API-based vehicle data collection and spreadsheet export | Python, Requests, Pandas |
+| [DANFE Form Demo](https://github.com/KauannOliver/danfe-form-demo) | Browser form and print-oriented document layout | HTML, CSS, JavaScript, Bootstrap |
+| [OMDb Movie List](https://github.com/KauannOliver/omdb-movie-list) | External API search and browser-local saved items | JavaScript, OMDb API |
+
+## Technology in the repositories
+
+- **Core:** Python, JavaScript, TypeScript, SQL.
+- **Applications:** React, Next.js, Vite, NestJS, Express, Flet, Tkinter, PyQt5.
+- **Automation and data:** Selenium, Pandas, OpenPyXL.
+- **Storage and infrastructure:** PostgreSQL, MySQL, SQLite, Supabase, Prisma, Docker.
+
+These are technologies visible in the public repositories. AI, Power BI, and Power Platform are not listed as demonstrated skills because the public code reviewed here does not provide verifiable artifacts for them.
+
+## Connect
+
+[Portfolio](https://kauantavares.netlify.app/) · [LinkedIn](https://linkedin.com/in/kauan-tavares49) · [Email](mailto:kauanotavares@gmail.com)
