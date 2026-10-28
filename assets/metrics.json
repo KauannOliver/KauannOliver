@@ -1,0 +1,15 @@
+{
+  "forks": 0,
+  "methodology": "Public, owned, non-fork repositories; language is each repository's primary language.",
+  "owner": "KauannOliver",
+  "primary_languages": {
+    "Blade": 1,
+    "CSS": 1,
+    "HTML": 2,
+    "JavaScript": 5,
+    "Python": 19,
+    "TypeScript": 8
+  },
+  "repositories": 37,
+  "stars": 0
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" role="img" aria-labelledby="title description">
+<title id="title">AI-Assisted Planning</title><desc id="description">Capacity meets clear decisions</desc>
+<defs><linearGradient id="edge"><stop stop-color="#079AE1"/><stop offset="1" stop-color="#00D4FF"/></linearGradient><pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#AAB3C5" opacity=".07"/></pattern></defs>
+<rect width="520" height="230" rx="20" fill="#050816"/><rect x="1" y="1" width="518" height="228" rx="19" fill="url(#grid)" stroke="#203451"/>
+<path d="M30 24H490" stroke="url(#edge)" stroke-width="3"/>
+<text x="30" y="50" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">AI-Assisted Planning</text>
+<text x="30" y="90" font-family="Arial,sans-serif" font-size="17" fill="#00D4FF">Capacity meets clear decisions</text>
+<text x="30" y="135" font-family="Arial,sans-serif" font-size="16" fill="#AAB3C5">Rules calculate. AI explains.</text>
+<circle cx="35" cy="205" r="4" fill="#39FF88"/><text x="48" y="210" font-family="monospace" font-size="12" fill="#AAB3C5">KAUANNOLIVER / SOURCE EXPLORER</text></svg>
